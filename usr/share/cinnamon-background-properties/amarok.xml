@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "cinnamon-wp-list.dtd">
+<wallpapers>
+
+<wallpaper deleted="false">
+    <name>Amarok Linux</name>
+    <filename>/usr/share/backgrounds/amarok/amarok1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Amarok</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Amarok Linux</name>
+    <filename>/usr/share/backgrounds/amarok/amarok2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Amarok</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Amarok Linux</name>
+    <filename>/usr/share/backgrounds/amarok/amarok3.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Amarok</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Amarok Linux</name>
+    <filename>/usr/share/backgrounds/amarok/amarok4.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Amarok</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Amarok Linux</name>
+    <filename>/usr/share/backgrounds/amarok/amarok5.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Amarok</artist>
+</wallpaper>
+
+</wallpapers>

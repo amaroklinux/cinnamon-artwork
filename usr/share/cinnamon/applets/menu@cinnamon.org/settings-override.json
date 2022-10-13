@@ -1,0 +1,28 @@
+{
+    "menu-custom" : {
+        "default" : true,
+        "override-props" : true
+    },
+    "menu-label" : {
+        "default" : "",
+        "override-props" : true
+    },
+    "menu-icon" : {
+        "icon_categories" : [{
+            "name" : "Amarok Linux",
+            "icons" : [
+                "amarok-logo",
+                    "amarok-logo-scalable",
+                    "amarok-logo-symbolic",                    
+                    "cinnamon-symbolic",
+                    "emblem-favorite-symbolic",
+                    "user-bookmarks-symbolic",
+                    "start-here-symbolic"
+            ]
+        }],
+        "default_category" : "Amarok Linux",
+        "default" : "amarok-logo",
+        "default_icon" : "amarok-logo",
+        "override-props" : true
+    }
+}

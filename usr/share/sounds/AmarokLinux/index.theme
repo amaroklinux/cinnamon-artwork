@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=AmarokLinux
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo

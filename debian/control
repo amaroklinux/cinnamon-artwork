@@ -1,0 +1,12 @@
+Source: amarok-artwork
+Section: x11
+Priority: optional
+Maintainer: Amarok Linux <packages@amaroklinux.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.6.0
+
+Package: amarok-cinnamon-artwork
+Architecture: all
+Depends: ${misc:Depends}
+Description: Amarok Linux Artwork and Resources
+ Artwork and Resources for Amarok Linux OS - Cinnamon.
